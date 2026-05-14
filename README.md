@@ -1,6 +1,6 @@
-# Hi, I'm [supriya] 👋
+# Hi, I'm Supriya 👋
 
-🎯 ["Data Enthusiast"]
+🎯 Data Enthusiast
 
 [![Microsoft Learn Profile](https://img.shields.io/badge/Microsoft%20Learn-Profile-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-gb/users/dornalasupriya-5847/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
