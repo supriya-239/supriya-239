@@ -14,6 +14,8 @@
 
 <!-- Replace the links and image URLs below with your actual Credly badge URLs -->
 
+
+<!-- 
 | Badge | Certification |
 |-------|--------------|
 | [![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/YOUR-BADGE-ID) | Microsoft Certified: Azure Fundamentals |
@@ -21,7 +23,7 @@
 | [![SC-900](https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/YOUR-BADGE-ID) | Microsoft Certified: Security, Compliance & Identity Fundamentals |
 
 <!-- Add or remove rows as needed -->
-
+-->
 ---
 
 ## 📚 Microsoft Learn Achievements
